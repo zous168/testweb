@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "测试网站",
     "description": "",
-    "home_page_url": "https://zous168.github.io/zous168web.github.io",
-    "feed_url": "https://zous168.github.io/zous168web.github.io/feed.json",
+    "home_page_url": "https://zous168.github.io/zous168web",
+    "feed_url": "https://zous168.github.io/zous168web/feed.json",
     "user_comment": "",
     "author": {
         "name": "色色色"
     },
     "items": [
         {
-            "id": "https://zous168.github.io/zous168web.github.io/de-feng-ge.html",
-            "url": "https://zous168.github.io/zous168web.github.io/de-feng-ge.html",
+            "id": "https://zous168.github.io/zous168web/de-feng-ge.html",
+            "url": "https://zous168.github.io/zous168web/de-feng-ge.html",
             "title": "的风格",
             "summary": "撒旦发射点手动阀手动阀",
             "content_html": "<p>撒旦发射点手动阀手动阀</p>",

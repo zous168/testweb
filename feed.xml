@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>测试网站</title>
-    <link href="https://zous168.github.io/zous168web.github.io/feed.xml" rel="self" />
-    <link href="https://zous168.github.io/zous168web.github.io" />
+    <link href="https://zous168.github.io/zous168web/feed.xml" rel="self" />
+    <link href="https://zous168.github.io/zous168web" />
     <updated>2022-05-07T22:21:15+08:00</updated>
     <author>
         <name>色色色</name>
     </author>
-    <id>https://zous168.github.io/zous168web.github.io</id>
+    <id>https://zous168.github.io/zous168web</id>
 
     <entry>
         <title>的风格</title>
         <author>
             <name>色色色</name>
         </author>
-        <link href="https://zous168.github.io/zous168web.github.io/de-feng-ge.html"/>
-        <id>https://zous168.github.io/zous168web.github.io/de-feng-ge.html</id>
+        <link href="https://zous168.github.io/zous168web/de-feng-ge.html"/>
+        <id>https://zous168.github.io/zous168web/de-feng-ge.html</id>
 
         <updated>2022-05-07T22:21:15+08:00</updated>
             <summary>
